@@ -16,9 +16,14 @@ Output: 30
 
 Explanation:
 "5" : Add 5 to the record : v = [5]
+
 "2" : Add 2 to the record : v = [5,2]
+
 "C" : Invalidate and remove the previous score: v = [5]
+
 "D" : Add 2*5 to the record: v [5,10]
+
 "+" : Add 5+10 to the record: [5,10,15]
+
 
 The total sum of v is 30.
